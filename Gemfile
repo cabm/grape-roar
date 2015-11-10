@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+gem 'roar', git: 'git@github.com:cabm/roar.git'
+
 gemspec
 
 group :development do
